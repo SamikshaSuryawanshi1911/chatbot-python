@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💄 Cosmetic Store Chatbot 🛍️
 
 A beginner-friendly, interactive **Python chatbot** for a virtual cosmetic store. It simulates a simple shopping experience in the command line, allowing users to view a product menu, place orders, and receive a bill summary — all in one script!
@@ -30,3 +31,6 @@ It’s an excellent starter project for students, Python learners, or those inte
 | 🔄 Order Summary                 | Displays clear and formatted output of the total order |
 
 ---
+=======
+# -chatbot-python
+>>>>>>> bd38e45695e179ee712023b91cd8af78fe5225cf
